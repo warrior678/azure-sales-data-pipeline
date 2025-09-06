@@ -46,6 +46,7 @@ azure-sales-data-pipeline/
 │-- sales_data_local.csv  # Local copy of downloaded CSV (ignored in git)
 │-- venv/                 # Virtual environment (not uploaded to GitHub)
 <img width="881" height="664" alt="image" src="https://github.com/user-attachments/assets/d2fb82e7-95fe-44a9-9cf3-55deb60a57a5" />
+https://cloudstorageproject123.blob.core.windows.net/projectdata123/sales data.csv
 
 
 
